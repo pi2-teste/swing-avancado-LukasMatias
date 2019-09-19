@@ -1,6 +1,4 @@
-﻿
 package br.senac.sp.aula5;
-
 /**
  *
  * @author lukas Matias
